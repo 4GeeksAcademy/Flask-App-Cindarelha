@@ -16,3 +16,4 @@ xgboost
 Flask
 joblib
 nltk
+gunicorn
